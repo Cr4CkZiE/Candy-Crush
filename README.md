@@ -1,5 +1,6 @@
 # Candy-Crush
 Ce projet est réalisé sous le cadre d'un projet étudiant 
+
 Membre du groupe n°2 :
  - BALBAS Lohann
  - BAYEUX Tristan
